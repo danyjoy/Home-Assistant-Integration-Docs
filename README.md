@@ -1,7 +1,7 @@
 # Home-Assistant-Integration-Wiki
 This contains documentations to integrate IoT devices to HA.
 
-I made this repo because, when I try to integrate my Portronics Smart Plug (a 16A plug called 'SPlug') into HA and I failed to find a well explained instruction on it. 
+I made this repo because, when I try to integrate my Portronics Smart Plug (a 16A plug called 'SPlug') into HA and I failed to find a well explained instruction on it, so I wanted to document the steps I did so that it'll be helpful for someone else too.
 
 This repo will contain instructions to integrate several IoT devices that <b>I</b> have used (fun facts: I haven't used that much) that are available in India 🇮🇳 (mainly). 
 
